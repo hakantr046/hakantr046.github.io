@@ -13,4 +13,4 @@ layout: home
 
 - [Windows Makinelerde Ip Adresi Kontrolü](https://hakantr046.github.io/ccna/ccna/2022/10/16/pc-ip-adresi-kontrol-etme.html)
 
--  [Windows Bilgisayarlarda Ipconfig/all Adresi Kontrolü](https://hakantr046.github.io/ccna/ccna/2022/10/16/ipconfigall-kontrol-etme.html)
+-  [Windows Bilgisayarlarda Ipconfig/all Adresi Kontrolü](http://hakantr046.github.io/ccna/ccna/2022/10/16/ipconfigall-kontrol-etme.html)
