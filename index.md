@@ -13,4 +13,4 @@ layout: home
 ## <span style="color:red">Cisco CCNA (Cisco Certified Network Associate) Notlarım<span>
 
 - [Windows Makinelerde Ip Adresi Kontrolü](https://hakantr046.github.io/ccna/ccna/2022/10/16/pc-ip-adresi-kontrol-etme.html)
-
+- [testn2](https://hakantr046.github.io/ccna/2023/01/15/testnote2.html)
